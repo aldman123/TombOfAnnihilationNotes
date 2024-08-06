@@ -1,0 +1,1 @@
+We figure out the skeleton puzzle, kill a bunch of bone men, and get some gold. We also find a hidden room attached to it with weird purple goo.
