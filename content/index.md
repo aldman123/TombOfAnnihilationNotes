@@ -1,4 +1,4 @@
-## The Fellowship of the Veil
+# The Fellowship of the Veil
 Welcome to my notes on Tomb of Annihilation!
 You're welcome to browse as you see fit :)
 
