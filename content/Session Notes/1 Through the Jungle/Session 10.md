@@ -23,4 +23,4 @@ We found a stone Dias with scripts written in Tabaxi.
 
 We placed the discs we found, first the one of Ubtao at the 12 o'clock possition, then the one of the city by the river in the next spot. When we played the second disc and explotion occured.
 
-We find another blue gem. It detects as mundain.
+We find another blue gem. It detects as mundane.

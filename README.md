@@ -1,4 +1,4 @@
-## Template
-This repo was created from [this template](https://github.com/ObsidianPublisher/template-gh-pages)
+# Maze of Life Notes
+This repo uses [Quartz](https://quartz.jzhao.xyz/). Run it locally with `npx quartz build --serve`.
 ## Deployment
 Check out the [published page](https://aldman123.github.io/TombOfAnnihilationNotes/)
