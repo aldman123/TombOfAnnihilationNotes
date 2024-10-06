@@ -1,0 +1,1 @@
+An Aboleth who offers to remove [[Locke Hancock|Locke]]'s tadpole.
